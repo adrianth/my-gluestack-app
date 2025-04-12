@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-gluestack-app/static/css/main.8a5422b5.css",
+    "main.js": "/my-gluestack-app/static/js/main.763268cb.js",
+    "static/js/453.42d661e2.chunk.js": "/my-gluestack-app/static/js/453.42d661e2.chunk.js",
+    "index.html": "/my-gluestack-app/index.html",
+    "main.8a5422b5.css.map": "/my-gluestack-app/static/css/main.8a5422b5.css.map",
+    "main.763268cb.js.map": "/my-gluestack-app/static/js/main.763268cb.js.map",
+    "453.42d661e2.chunk.js.map": "/my-gluestack-app/static/js/453.42d661e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a5422b5.css",
+    "static/js/main.763268cb.js"
+  ]
+}
